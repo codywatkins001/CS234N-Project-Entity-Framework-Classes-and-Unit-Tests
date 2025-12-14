@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78DEAEC1-4424-42B5-A451-90B0A5970D4B}|BITS.Models\\BITS.Models.csproj|c:\\users\\wicky\\onedrive\\desktop\\cs162n\\labs\\cs162n-lab5\\cs162n\\complexclasseslab_master\\complexclasseslab_master\\domios\\bits\\bits.models\\models\\configdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DEAEC1-4424-42B5-A451-90B0A5970D4B}|BITS.Models\\BITS.Models.csproj|solutionrelative:bits.models\\models\\configdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DEAEC1-4424-42B5-A451-90B0A5970D4B}|BITS.Models\\BITS.Models.csproj|c:\\users\\wicky\\onedrive\\desktop\\cs162n\\labs\\cs162n-lab5\\cs162n\\complexclasseslab_master\\complexclasseslab_master\\domios\\bits\\bits.models\\models\\bitscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DEAEC1-4424-42B5-A451-90B0A5970D4B}|BITS.Models\\BITS.Models.csproj|solutionrelative:bits.models\\models\\bitscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DEAEC1-4424-42B5-A451-90B0A5970D4B}|BITS.Models\\BITS.Models.csproj|c:\\users\\wicky\\onedrive\\desktop\\cs162n\\labs\\cs162n-lab5\\cs162n\\complexclasseslab_master\\complexclasseslab_master\\domios\\bits\\bits.models\\models\\mysqlsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78DEAEC1-4424-42B5-A451-90B0A5970D4B}|BITS.Models\\BITS.Models.csproj|solutionrelative:bits.models\\models\\mysqlsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D850EDC1-D948-4D5B-A22C-E8C9360B771D}|BITS.Tests\\BITS.Tests.csproj|c:\\users\\wicky\\onedrive\\desktop\\cs162n\\labs\\cs162n-lab5\\cs162n\\complexclasseslab_master\\complexclasseslab_master\\domios\\bits\\bits.tests\\bits.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D850EDC1-D948-4D5B-A22C-E8C9360B771D}|BITS.Tests\\BITS.Tests.csproj|solutionrelative:bits.tests\\bits.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DEAEC1-4424-42B5-A451-90B0A5970D4B}|BITS.Models\\BITS.Models.csproj|c:\\users\\wicky\\onedrive\\desktop\\cs162n\\labs\\cs162n-lab5\\cs162n\\complexclasseslab_master\\complexclasseslab_master\\domios\\bits\\bits.models\\bits.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78DEAEC1-4424-42B5-A451-90B0A5970D4B}|BITS.Models\\BITS.Models.csproj|solutionrelative:bits.models\\bits.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D850EDC1-D948-4D5B-A22C-E8C9360B771D}|BITS.Tests\\BITS.Tests.csproj|c:\\users\\wicky\\onedrive\\desktop\\cs162n\\labs\\cs162n-lab5\\cs162n\\complexclasseslab_master\\complexclasseslab_master\\domios\\bits\\bits.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D850EDC1-D948-4D5B-A22C-E8C9360B771D}|BITS.Tests\\BITS.Tests.csproj|solutionrelative:bits.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DEAEC1-4424-42B5-A451-90B0A5970D4B}|BITS.Models\\BITS.Models.csproj|c:\\users\\wicky\\onedrive\\desktop\\cs162n\\labs\\cs162n-lab5\\cs162n\\complexclasseslab_master\\complexclasseslab_master\\domios\\bits\\bits.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DEAEC1-4424-42B5-A451-90B0A5970D4B}|BITS.Models\\BITS.Models.csproj|solutionrelative:bits.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BitsContext.cs",
+              "DocumentMoniker": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Models\\Models\\BitsContext.cs",
+              "RelativeDocumentMoniker": "BITS.Models\\Models\\BitsContext.cs",
+              "ToolTip": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Models\\Models\\BitsContext.cs",
+              "RelativeToolTip": "BITS.Models\\Models\\BitsContext.cs",
+              "ViewState": "AgIAANABAAAAAAAAAAAgwPcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:13:25.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigDB.cs",
+              "DocumentMoniker": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Models\\Models\\ConfigDB.cs",
+              "RelativeDocumentMoniker": "BITS.Models\\Models\\ConfigDB.cs",
+              "ToolTip": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Models\\Models\\ConfigDB.cs",
+              "RelativeToolTip": "BITS.Models\\Models\\ConfigDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T21:55:07.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BITS.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Tests\\BITS.Tests.csproj",
+              "RelativeDocumentMoniker": "BITS.Tests\\BITS.Tests.csproj",
+              "ToolTip": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Tests\\BITS.Tests.csproj",
+              "RelativeToolTip": "BITS.Tests\\BITS.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T21:45:22.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BITS.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Models\\BITS.Models.csproj",
+              "RelativeDocumentMoniker": "BITS.Models\\BITS.Models.csproj",
+              "ToolTip": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Models\\BITS.Models.csproj",
+              "RelativeToolTip": "BITS.Models\\BITS.Models.csproj",
+              "ViewState": "AgIAABQAAAAA1AQ+1KjyvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T21:36:07.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mySqlSettings.json",
+              "DocumentMoniker": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Models\\Models\\mySqlSettings.json",
+              "RelativeDocumentMoniker": "BITS.Models\\Models\\mySqlSettings.json",
+              "ToolTip": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Models\\Models\\mySqlSettings.json",
+              "RelativeToolTip": "BITS.Models\\Models\\mySqlSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T21:32:30.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Tests\\Class1.cs",
+              "RelativeDocumentMoniker": "BITS.Tests\\Class1.cs",
+              "ToolTip": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Tests\\Class1.cs",
+              "RelativeToolTip": "BITS.Tests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T21:14:41.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "BITS.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\WIcky\\OneDrive\\Desktop\\CS162N\\Labs\\CS162N-Lab5\\CS162N\\ComplexClasseslab_master\\ComplexClasseslab_master\\Domios\\BITS\\BITS.Models\\Class1.cs",
+              "RelativeToolTip": "BITS.Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T21:14:02.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

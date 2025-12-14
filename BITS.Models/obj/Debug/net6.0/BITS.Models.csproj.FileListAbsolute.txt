@@ -1,0 +1,15 @@
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\bin\Debug\net6.0\BITS.Models.deps.json
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\bin\Debug\net6.0\BITS.Models.runtimeconfig.json
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\bin\Debug\net6.0\BITS.Models.dll
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\bin\Debug\net6.0\BITS.Models.pdb
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\obj\Debug\net6.0\BITS.Models.csproj.AssemblyReference.cache
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\obj\Debug\net6.0\BITS.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\obj\Debug\net6.0\BITS.Models.AssemblyInfoInputs.cache
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\obj\Debug\net6.0\BITS.Models.AssemblyInfo.cs
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\obj\Debug\net6.0\BITS.Models.csproj.CoreCompileInputs.cache
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\obj\Debug\net6.0\BITS.Models.sourcelink.json
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\obj\Debug\net6.0\BITS.Models.dll
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\obj\Debug\net6.0\refint\BITS.Models.dll
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\obj\Debug\net6.0\BITS.Models.pdb
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\obj\Debug\net6.0\BITS.Models.genruntimeconfig.cache
+C:\Users\WIcky\OneDrive\Desktop\CS162N\Labs\CS162N-Lab5\CS162N\ComplexClasseslab_master\ComplexClasseslab_master\Domios\BITS\BITS.Models\obj\Debug\net6.0\ref\BITS.Models.dll
